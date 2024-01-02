@@ -1,9 +1,14 @@
 ;;; init-lock.el --- Lock init.el behind simple arithmetic  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2022  Grant Rosson
+;; Copyright (C) 2023-2024  Grant Rosson
 
 ;; Author: Grant Rosson <grantrosson@gmail.com>
-;; Keywords:
+;; Created: April 24, 2023
+;; License: GPL-3.0-or-later
+;; Version: 0.1
+;; Homepage: https://github.com/localauthor/init-lock
+;; Package-Requires: ((emacs "24.4"))
+;; Keywords: convenience maint
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
